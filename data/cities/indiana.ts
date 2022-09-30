@@ -1,3 +1,14 @@
+/*
+    Author:         Eugene Moshchyn
+    Scraped Using:  Excel Data Import
+
+    Last Update:    Sep 30th, 2022
+    Source:         https://bit.ly/3SK471V
+
+    Credit:         Wikipedia® | Wikimedia Foundation, Inc.
+*/
+
+
 export const INDIANA = {
     'Indiana':
     [
